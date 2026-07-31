@@ -46,7 +46,7 @@ then choose `Plugins | ⚙ | Install Plugin from Disk...`.
 ./package.sh
 ```
 
-`dist/ark-graphite-intellij-theme.zip`이 생성된다. 이 플러그인은 코드나 외부
+`dist/graphite-theme.zip`이 생성된다. 이 플러그인은 코드나 외부
 의존성이 없는 리소스 전용 테마다.
 
 ## License

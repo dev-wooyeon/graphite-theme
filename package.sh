@@ -13,8 +13,8 @@ mkdir -p "$build_dir/lib" "$dist_dir"
   jar --create --file "$build_dir/lib/ark-graphite-intellij-theme.jar" .
 )
 
-rm -f "$dist_dir/ark-graphite-intellij-theme.zip"
+rm -f "$dist_dir/graphite-theme.zip" "$dist_dir/ark-graphite-intellij-theme.zip"
 (
   cd "$root_dir/build"
-  zip -qr "$dist_dir/ark-graphite-intellij-theme.zip" ark-graphite-intellij-theme
+  zip -qr "$dist_dir/graphite-theme.zip" ark-graphite-intellij-theme
 )
