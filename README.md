@@ -24,6 +24,28 @@ compiler. :)
 - IntelliJ Light 기반 Paper / Graphite Ink palette
 - D2Coding 13px editor and console scheme
 - Paper-like editor background, graphite UI, low-saturation syntax colors
+- Plum field and property colors across JVM and web languages
+
+## Language previews
+
+The `#A2385E` plum accent is applied to fields, properties, and member
+variables while preserving each language's native syntax hierarchy.
+
+| Java | Kotlin |
+| --- | --- |
+| <img src="assets/overview-java.png" alt="Java editor preview" width="420"> | <img src="assets/overview-kotlin.png" alt="Kotlin editor preview" width="420"> |
+
+| Python | JavaScript |
+| --- | --- |
+| <img src="assets/overview-python.png" alt="Python editor preview" width="420"> | <img src="assets/overview-javascript.png" alt="JavaScript editor preview" width="420"> |
+
+| TypeScript | React TSX |
+| --- | --- |
+| <img src="assets/overview-typescript.png" alt="TypeScript editor preview" width="420"> | <img src="assets/overview-react.png" alt="React TSX editor preview" width="420"> |
+
+| Vue |
+| --- |
+| <img src="assets/overview-vue.png" alt="Vue editor preview" width="420"> |
 
 ## Install
 

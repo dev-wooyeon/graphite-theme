@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>io.github.devwooyeon.graphite</id>
   <name>Graphite Theme</name>
-  <version>1.0.4</version>
+  <version>1.0.5</version>
   <vendor email="dev.haon@gmail.com" url="https://github.com/dev-wooyeon">Eunwoo Park (박은우)</vendor>
 
   <description><![CDATA[
@@ -19,7 +19,10 @@
   ]]></description>
 
   <change-notes><![CDATA[
-    Initial Graphite Theme light release.
+    <ul>
+      <li>Add Graphite blossom plugin icon.</li>
+      <li>Apply the plum field color across Kotlin, Java, Python, JavaScript, and TypeScript.</li>
+    </ul>
   ]]></change-notes>
 
   <idea-version since-build="233"/>
