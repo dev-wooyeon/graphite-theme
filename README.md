@@ -27,10 +27,16 @@ compiler. :)
 
 ## Install
 
-1. [Releases](../../releases)에서 최신 ZIP을 내려받는다.
-2. IntelliJ IDEA에서 `Settings | Plugins | ⚙ | Install Plugin from Disk...`를 연다.
-3. ZIP을 선택하고 IDE를 재시작한다.
-4. `Settings | Appearance & Behavior | Appearance`에서 `Graphite Theme`을 선택한다.
+Install **Graphite Theme** from the JetBrains Marketplace:
+
+1. Open `Settings | Plugins | Marketplace`.
+2. Search for `Graphite Theme` and install it.
+3. Restart the IDE if prompted.
+4. Select `Graphite Theme` from
+   `Settings | Appearance & Behavior | Appearance`.
+
+For offline installation, download the ZIP from [Releases](../../releases),
+then choose `Plugins | ⚙ | Install Plugin from Disk...`.
 
 `D2Coding`이 설치되어 있지 않으면 IDE 기본 monospace font를 사용한다.
 
